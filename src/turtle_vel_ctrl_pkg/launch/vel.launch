@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="turtle_vel_ctrl_pkg" type="turtle_vel_ctrl_node" name="turtle_vel_ctrl_node"/>
+    <node pkg="turtle_vel_rece_pkg" type="turtle_vel_rece_node" name="turtle_vel_rece_node"/>
+    <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node" output="screen"/>
+</launch>

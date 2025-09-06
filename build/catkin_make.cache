@@ -1,0 +1,2 @@
+cv_pkg:imu_pkg:nav_pkg:qq_msgs:ros_tutorials/ros_tutorials:ros_tutorials/roscpp_tutorials:ros_tutorials/rospy_tutorials:ros_tutorials/turtlesim:slam_pkg:ssr_pkg:turtle_vel_ctrl_pkg:turtle_vel_rece_pkg:waterplus_map_tools:wpb_home/wpb_home_behaviors:wpb_home/wpb_home_bringup:wpb_home/wpb_home_python:wpb_home/wpb_home_python3:wpb_home/wpb_home_remote:wpb_home/wpb_home_tutorials:wpb_home/wpbh_local_planner:wpr_simulation
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/andrew/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/andrew/catkin_ws/install -G Unix Makefiles

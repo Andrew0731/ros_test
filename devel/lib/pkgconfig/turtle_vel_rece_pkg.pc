@@ -1,0 +1,8 @@
+prefix=/home/andrew/catkin_ws/devel
+
+Name: turtle_vel_rece_pkg
+Description: Description of turtle_vel_rece_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
